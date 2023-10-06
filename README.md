@@ -32,10 +32,10 @@ Check the downloads page on [podman-desktop.io/downloads](https://podman-desktop
 
 #### Containers and pods dashboard
 
-- Build, run, manage, and debug both containers and pods
-- Run Pods on your container engine or with Kubernetes
-- Convert your Pods to be running on Kubernetes
-- Manage multiple container engines
+- Build, run, manage, and debug both containers and pods.
+- Run Pods on your container engine or with Kubernetes.
+- Convert your Pods to be running on Kubernetes.
+- Manage multiple container engines.
 
 #### Multiple container engine support
 
